@@ -1,4 +1,6 @@
-# devilpopmodel
+# devil population model
+<img align="right" src="Devil.png" alt="Sarcophilus" width="200" style="margin-top: 20px">
+
 Population model for Tasmanian devils
 
 Accompanies paper:
