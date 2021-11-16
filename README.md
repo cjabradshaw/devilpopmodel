@@ -16,5 +16,5 @@ Australia’s last mega-carnivore marsupial, the Tasmanian devil <em>Sarcophilus
 ## More information
 See also a more recent version of the devil population model (R code) published in:
 - Bradshaw, CJA, CN Johnson, J Llewelyn, V Weisbecker, G Strona, F Saltré. 2021. <a href="http://doi.org/10.7554/eLife.63870">Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna</a>. <em>eLife</em> 10: e63870. doi:10.7554/eLife.63870
-- and its associated Github repository <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility">here</a>
+- and its associated Github repository <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility">here</a> (specifically, see lines 4757-4997 in script <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/Sahul%20megafauna%20demographic%20susceptibility-base%20models.R"><code>Sahul megafauna demographic susceptibility-base models.R</code></a>)
 
